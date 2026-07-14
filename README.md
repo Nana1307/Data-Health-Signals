@@ -75,6 +75,5 @@ Performance Optimization
 
 ## Source Code
 
-The source code is not publicly available because it is owned by my employer and protected under confidentiality agreements.
-
-Thus it intentionally excludes proprietary source code, datasets, and internal documentation. It is intended solely to present the project's scope and highlight the technologies and engineering practices involved.
+*The source code is not publicly available because it is owned by my employer and protected under confidentiality agreements.
+Thus it intentionally excludes proprietary source code, datasets, and internal documentation. It is intended solely to present the project's scope and highlight the technologies and engineering practices involved.*

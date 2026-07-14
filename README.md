@@ -1,21 +1,17 @@
 # Data-Health-Signals
-Data Health Signals:
-
-- Professional Full-Stack project
+Data Health Signals : Professional Full-Stack project
 
 React • Django • PostgreSQL • Docker
 
-The source code for this project cannot be shared because it was developed as part of my professional work and is protected by confidentiality agreements. This repository serves as a high-level overview of the project and my technical contributions.
-
-# Overview
+## Overview
 
 Health Data Signals Platform is a full-stack web application designed to support the collection, management, and analysis of structured health-related data from multiple stakeholders. The platform centralizes reporting workflows, simplifies data collection, and provides decision-makers with dashboards and analytical tools to monitor key indicators over time.
 
-# My Role
+## My Role
 
 As a Full-Stack Developer, I contributed to both the frontend and backend development of the platform, participating in the design, implementation, testing, and deployment of several core features.
 
-# My responsibilities included
+## My responsibilities included
 
 - Developing responsive user interfaces using React.
 - Designing and implementing RESTful APIs with Django REST Framework.
@@ -26,7 +22,7 @@ As a Full-Stack Developer, I contributed to both the frontend and backend develo
 - Optimizing application performance and user experience.
 - Participating in deployment using Docker-based environments.
 
-# Technologies
+## Technologies
 - React.js
 - JavaScript (ES6+)
 - TailwindCSS
@@ -37,7 +33,7 @@ As a Full-Stack Developer, I contributed to both the frontend and backend develo
 - Nginx
 - Git
 
-# Key Features 
+## Key Features 
 - Secure authentication and authorization
 - Role-based user management
 - Configurable data collection workflows
@@ -48,11 +44,11 @@ As a Full-Stack Developer, I contributed to both the frontend and backend develo
 - Administrative configuration tools
 - Responsive web interface
 
-# Technical Focus
+## Technical Focus
 
 This project involved designing scalable backend services and creating maintainable frontend components while ensuring data consistency, usability, and extensibility. Particular attention was given to building flexible data models capable of supporting evolving reporting requirements without impacting existing workflows.
 
-# Skills Demonstrated
+## Skills Demonstrated
 - Full-Stack Web Development
 - REST API Design
 - Frontend Architecture

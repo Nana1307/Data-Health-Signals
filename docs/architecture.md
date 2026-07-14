@@ -1,0 +1,5 @@
+- SPA frontend
+- REST API
+- Database
+- Authentication
+- Docker

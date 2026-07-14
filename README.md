@@ -11,6 +11,14 @@ Health Data Signals Platform is a full-stack web application designed to support
 
 As a Full-Stack Developer, I contributed to both the frontend and backend development of the platform, participating in the design, implementation, testing, and deployment of several core features.
 
+## Engineering Highlights
+
+- Designed and implemented full-stack features using React and Django REST Framework.
+- Developed configurable data collection and reporting workflows.
+- Built interactive dashboards for data visualization and monitoring.
+- Designed relational database models for scalable data management.
+- Containerized the application using Docker for consistent deployment.
+
 ## My responsibilities included
 
 - Developing responsive user interfaces using React.

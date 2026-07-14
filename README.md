@@ -62,4 +62,19 @@ Data Visualization
 Agile Development
 Performance Optimization
 
-This repository intentionally excludes proprietary source code, datasets, and internal documentation. It is intended solely to present the project's scope and highlight the technologies and engineering practices involved.
+## Architecture
+
+![Architecture](diagrams/system-architecture.png)
+
+## Documentation
+
+- Architecture
+- Technical Decisions
+- Challenges
+- Deployment
+
+## Source Code
+
+The source code is not publicly available because it is owned by my employer and protected under confidentiality agreements.
+
+Thus it intentionally excludes proprietary source code, datasets, and internal documentation. It is intended solely to present the project's scope and highlight the technologies and engineering practices involved.
